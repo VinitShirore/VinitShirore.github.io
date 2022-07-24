@@ -12,6 +12,13 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+
+
+.style_header_main{
+    font-weight:600 ; 
+    font-family: Monospace ; 
+}
+
 .menu{
     margin-top: 20px;
     width: 100%;
